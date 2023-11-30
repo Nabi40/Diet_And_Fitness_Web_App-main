@@ -7,6 +7,23 @@
     <title>table</title>
 </head>
 <body>
+
+
+<!-- Navbar -->
+<nav class="bg-[#FEB600] p-4 text-white">
+    <div class="container mx-left">
+      <div class="flex justify-between items-center">
+        <div class="text-xl font-semibold"></div>
+        <div class="flex space-x-4 items-end">
+          <a href="#" class="hover:text-gray-300">Home</a>
+          <a href="#" class="hover:text-gray-300">Dashboard</a>
+          <a href="#" class="hover:text-gray-300">Settings</a>
+          <a href="#" class="hover:text-gray-300">Logout</a>
+        </div>
+      </div>
+    </div>
+  </nav>
+  
   <section class = "bg-gray-50 p-2 mt-12 mid-h-screen flex itmes-center justify-center" >
     
 
